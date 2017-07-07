@@ -1,0 +1,2 @@
+from .mymodule import mymultiply
+
